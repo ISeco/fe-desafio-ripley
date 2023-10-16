@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-fedesafiotech-dev-202617-authRole",
+      "UnauthRoleArn": "arn:aws:iam::862377459013:role/amplify-fedesafiotech-dev-202617-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::862377459013:role/amplify-fedesafiotech-dev-202617-authRole",
+      "Region": "sa-east-1",
+      "DeploymentBucketName": "amplify-fedesafiotech-dev-202617-deployment",
+      "UnauthRoleName": "amplify-fedesafiotech-dev-202617-unauthRole",
+      "StackName": "amplify-fedesafiotech-dev-202617",
+      "StackId": "arn:aws:cloudformation:sa-east-1:862377459013:stack/amplify-fedesafiotech-dev-202617/690b75c0-6c7b-11ee-b9f6-0a2c1b513988",
+      "AmplifyAppId": "d186i7t3xo67fl"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d186i7t3xo67fl",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
